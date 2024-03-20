@@ -5,14 +5,12 @@ It features an interactive smart assistant inspired by Knight Industries Two Tho
 
 
 ## Preview/Screenshots
-https://www.youtube.com/watch?v=W4Q1bZQEd9o
-YouTube video on the build
+[YouTube video on the build](https://www.youtube.com/watch?v=W4Q1bZQEd9o)
 
-![IMG_7764](https://github.com/BraedenP232/kitt_robot/assets/83258877/69adb165-db39-4e83-b460-fa0b1167fe72)
-Smart KITT Brain (Raspberry Pi 4 with ReSpeaker 4-mic Array)
-
-![IMG_7775](https://github.com/BraedenP232/kitt_robot/assets/83258877/aca6d15e-0d9e-45b3-8dc4-53d4e3e5cb28)
-Smart KITT Gas Pump Display Case with iconic scrolling LEDS
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/BraedenP232/kitt_robot/assets/83258877/69adb165-db39-4e83-b460-fa0b1167fe72" alt="IMG_7764" width="400" height="300" />
+    <img src="https://github.com/BraedenP232/kitt_robot/assets/83258877/aca6d15e-0d9e-45b3-8dc4-53d4e3e5cb28" alt="IMG_7775" width="400" height="300" />
+</div>
 
 
 ## Features:
