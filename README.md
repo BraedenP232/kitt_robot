@@ -9,7 +9,7 @@ It features an interactive smart assistant inspired by Knight Industries Two Tho
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/BraedenP232/kitt_robot/assets/83258877/69adb165-db39-4e83-b460-fa0b1167fe72" alt="IMG_7764" width="400" height="300" />
-    <img src="https://github.com/BraedenP232/kitt_robot/assets/83258877/aca6d15e-0d9e-45b3-8dc4-53d4e3e5cb28" alt="IMG_7775" width="400" height="300" />
+    <img src="https://github.com/BraedenP232/kitt_robot/assets/83258877/aca6d15e-0d9e-45b3-8dc4-53d4e3e5cb28" alt="IMG_7775" width="400" height="600" />
 </div>
 
 
